@@ -1,0 +1,8 @@
+{
+  "name": "Flappy Jet: Alamabu Online",
+  "description": "Trò chơi Flappy Jet phong cách máy bay vượt cao ốc, chế độ Online tạo phòng, Đấu đối kháng ngẫu nhiên, Offline, Bảng xếp hạng thời gian thực, Phòng chat và quà hằng ngày cùng hiệu ứng nổ alamabu hoành tráng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
